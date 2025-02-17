@@ -9,9 +9,8 @@ To analyze customer behavior and credit card usage patterns, providing valuable 
 This project utilizes Power BI to visualize and analyze credit card transactions, customer demographics, and spending behaviors. The dashboard includes key metrics such as revenue, transaction volume, customer segmentation, and spending patterns across different categories.
 
 ## 📂 Project Structure
-- **Reports/**: `Credit_Card_Report.pbix` (Power BI file)
+- **Reports/**: `CreditCard Dashboard.pdf` (Power BI Dashboard Images)
 - **Data/**: `customer.csv`, `credit_card.csv` (Raw data files)
-- **Images/**: Screenshots of the dashboards
 
 ## 💡 Insights
 📈 Credit Card Transaction Report:
